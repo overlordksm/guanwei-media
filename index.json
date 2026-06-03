@@ -1,0 +1,41 @@
+{
+  "reels": {
+    "bijie-peers-rivals": {
+      "bundle_id": null,
+      "created_by": "xiaochuang",
+      "langs": {
+        "cn": {
+          "cover": {
+            "bytes": 1589813,
+            "content_hash": "sha256:a2b88ae785d8bc7a6b5da6f1e194dc23de901dad908ad497d49e7b2dd6a60f1a",
+            "path": "instagram-reels/bijie-peers-rivals-cn/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/bijie-peers-rivals-cn/cover.png"
+          },
+          "video": {
+            "bytes": 4272442,
+            "content_hash": "sha256:b79685ae2802b45505e403423b0cb08519c85765d47f6e615a34265f3601ab8a",
+            "path": "instagram-reels/bijie-peers-rivals-cn/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/bijie-peers-rivals-cn/video.mp4"
+          }
+        },
+        "en": {
+          "cover": {
+            "bytes": 1593728,
+            "content_hash": "sha256:1e9d44d320f906ff31385a516d414107fa4f5d6b1408edecb35a8f5ce2e7ea91",
+            "path": "instagram-reels/bijie-peers-rivals-en/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/bijie-peers-rivals-en/cover.png"
+          },
+          "video": {
+            "bytes": 4617263,
+            "content_hash": "sha256:30d0d38cebb01cfb50f1cf6a6fac3e72694f3bfdad4dc2b6c8a7bb4b0994d00d",
+            "path": "instagram-reels/bijie-peers-rivals-en/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/bijie-peers-rivals-en/video.mp4"
+          }
+        }
+      },
+      "published_at": "2026-06-03T23:26:09Z"
+    }
+  },
+  "schema_version": 1,
+  "updated_at": "2026-06-03T23:26:09Z"
+}
