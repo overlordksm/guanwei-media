@@ -34,8 +34,43 @@
         }
       },
       "published_at": "2026-06-03T23:26:09Z"
+    },
+    "shishen-personality-mapping": {
+      "bundle_id": null,
+      "created_by": "xiaochuang",
+      "langs": {
+        "cn": {
+          "cover": {
+            "bytes": 2061912,
+            "content_hash": "sha256:5792cf2e697a65f692e374eac70c2560bbe130909004fca14d906172debc8fdd",
+            "path": "instagram-reels/shishen-personality-mapping-cn/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/shishen-personality-mapping-cn/cover.png"
+          },
+          "video": {
+            "bytes": 4949753,
+            "content_hash": "sha256:32674bb22d6afc922eeb5460b6044ccb5f340187e17dcc83bd69b3c1a97e4754",
+            "path": "instagram-reels/shishen-personality-mapping-cn/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/shishen-personality-mapping-cn/video.mp4"
+          }
+        },
+        "en": {
+          "cover": {
+            "bytes": 2053553,
+            "content_hash": "sha256:ae0a039a982357a23886f26f7bad6e4ca6de079f0798e2dcc79b66c70e12a1a5",
+            "path": "instagram-reels/shishen-personality-mapping-en/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/shishen-personality-mapping-en/cover.png"
+          },
+          "video": {
+            "bytes": 7473050,
+            "content_hash": "sha256:a9afb88f6359c8179becabf57ae69a945b3de6a67fd1e7c6f60928c4325e7b0e",
+            "path": "instagram-reels/shishen-personality-mapping-en/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/shishen-personality-mapping-en/video.mp4"
+          }
+        }
+      },
+      "published_at": "2026-06-04T03:27:56Z"
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-06-03T23:26:09Z"
+  "updated_at": "2026-06-04T03:27:56Z"
 }
