@@ -1,5 +1,40 @@
 {
   "reels": {
+    "authority-stars-zhengguan-qisha": {
+      "bundle_id": null,
+      "created_by": "xiaochuang",
+      "langs": {
+        "cn": {
+          "cover": {
+            "bytes": 2261284,
+            "content_hash": "sha256:5ab173b7439ba62569d8e80a77606a4a1383f5ba9df5fc8c8b62865a56423137",
+            "path": "instagram-reels/authority-stars-zhengguan-qisha-cn/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/authority-stars-zhengguan-qisha-cn/cover.png"
+          },
+          "video": {
+            "bytes": 5214074,
+            "content_hash": "sha256:e849711c440233ff063cc7a5d60b855603c3a5a2b9a7b87b81b01c68cad87f29",
+            "path": "instagram-reels/authority-stars-zhengguan-qisha-cn/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/authority-stars-zhengguan-qisha-cn/video.mp4"
+          }
+        },
+        "en": {
+          "cover": {
+            "bytes": 2263098,
+            "content_hash": "sha256:b228e6d32671e41dfc01f1b5f495ad467915b9130bcab515261035f5487c809f",
+            "path": "instagram-reels/authority-stars-zhengguan-qisha-en/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/authority-stars-zhengguan-qisha-en/cover.png"
+          },
+          "video": {
+            "bytes": 7809881,
+            "content_hash": "sha256:6970def5da28d167f2f348ba50ea7c9a4ddb09ccc8576c223f0d9150ba8ec850",
+            "path": "instagram-reels/authority-stars-zhengguan-qisha-en/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/authority-stars-zhengguan-qisha-en/video.mp4"
+          }
+        }
+      },
+      "published_at": "2026-06-05T16:41:27Z"
+    },
     "bijie-peers-rivals": {
       "bundle_id": null,
       "created_by": "xiaochuang",
@@ -72,5 +107,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-06-04T03:27:56Z"
+  "updated_at": "2026-06-05T16:41:27Z"
 }
