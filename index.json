@@ -104,8 +104,43 @@
         }
       },
       "published_at": "2026-06-04T03:27:56Z"
+    },
+    "shishen-zhisha": {
+      "bundle_id": null,
+      "created_by": "xiaochuang",
+      "langs": {
+        "cn": {
+          "cover": {
+            "bytes": 2686178,
+            "content_hash": "sha256:ec817a674d1bd0f8b0fa8dcf18ce82159d9a927bed46bbed4e22494be9619beb",
+            "path": "instagram-reels/shishen-zhisha-cn/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/shishen-zhisha-cn/cover.png"
+          },
+          "video": {
+            "bytes": 4145966,
+            "content_hash": "sha256:3d8022c3aa577da8e454a7cfdbe2ebc84368a99c0c2f04984d646fbcf9b01f7f",
+            "path": "instagram-reels/shishen-zhisha-cn/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/shishen-zhisha-cn/video.mp4"
+          }
+        },
+        "en": {
+          "cover": {
+            "bytes": 2695988,
+            "content_hash": "sha256:232b5b9d789da31e020370ac6ada1ca9400357d19f76014fd3cbb0400ece8077",
+            "path": "instagram-reels/shishen-zhisha-en/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/shishen-zhisha-en/cover.png"
+          },
+          "video": {
+            "bytes": 4742624,
+            "content_hash": "sha256:cc1b8a69ab36637433514a0c2a0cc240e2cc39320989a93fd507d347c36605eb",
+            "path": "instagram-reels/shishen-zhisha-en/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/shishen-zhisha-en/video.mp4"
+          }
+        }
+      },
+      "published_at": "2026-07-03T14:04:32Z"
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-06-05T16:41:27Z"
+  "updated_at": "2026-07-03T14:04:32Z"
 }
