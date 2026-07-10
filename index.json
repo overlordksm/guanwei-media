@@ -354,8 +354,43 @@
         }
       },
       "published_at": "2026-07-07T14:40:37Z"
+    },
+    "zhunti-zk8g7w1ndu4-userfix": {
+      "bundle_id": null,
+      "created_by": "xiaochuang",
+      "langs": {
+        "cn": {
+          "cover": {
+            "bytes": 3047903,
+            "content_hash": "sha256:f2dc72a6640ec411d116fc859c53500f9d064c58ff092fbcc0e06c3428ace2e7",
+            "path": "instagram-reels/zhunti-zk8g7w1ndu4-userfix-cn/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-zk8g7w1ndu4-userfix-cn/cover.png"
+          },
+          "video": {
+            "bytes": 4725143,
+            "content_hash": "sha256:173dc489d7732c899a2bd634cd687e28af063c9462f6716a171551c13e684c50",
+            "path": "instagram-reels/zhunti-zk8g7w1ndu4-userfix-cn/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-zk8g7w1ndu4-userfix-cn/video.mp4"
+          }
+        },
+        "en": {
+          "cover": {
+            "bytes": 3082101,
+            "content_hash": "sha256:75ff0bd0945fbaf373bbdd7442b93bc77308094417645b72d595a1795933db14",
+            "path": "instagram-reels/zhunti-zk8g7w1ndu4-userfix-en/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-zk8g7w1ndu4-userfix-en/cover.png"
+          },
+          "video": {
+            "bytes": 5663957,
+            "content_hash": "sha256:b74d73550b95a5ea61d44d39674dee76c91d73ff588fd2aa08270bc60465fa31",
+            "path": "instagram-reels/zhunti-zk8g7w1ndu4-userfix-en/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-zk8g7w1ndu4-userfix-en/video.mp4"
+          }
+        }
+      },
+      "published_at": "2026-07-10T13:02:22Z"
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-09T11:34:18Z"
+  "updated_at": "2026-07-10T13:02:22Z"
 }
