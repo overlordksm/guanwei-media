@@ -355,6 +355,41 @@
       },
       "published_at": "2026-07-07T14:40:37Z"
     },
+    "zhunti-wff01w8ago-recreate": {
+      "bundle_id": null,
+      "created_by": "xiaochuang",
+      "langs": {
+        "cn": {
+          "cover": {
+            "bytes": 2925199,
+            "content_hash": "sha256:25b81d498cf5ce4019e361ff3587e693cf3172f3373ebfff2e9a286bbe5ac543",
+            "path": "instagram-reels/zhunti-wff01w8ago-recreate-cn/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-wff01w8ago-recreate-cn/cover.png"
+          },
+          "video": {
+            "bytes": 4489654,
+            "content_hash": "sha256:a8b55e859fe7211d67374079a7ab106ce8e69dbbcc96f8f9787f1a1c8547e3c0",
+            "path": "instagram-reels/zhunti-wff01w8ago-recreate-cn/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-wff01w8ago-recreate-cn/video.mp4"
+          }
+        },
+        "en": {
+          "cover": {
+            "bytes": 2932092,
+            "content_hash": "sha256:4e48f03b6580101553cc5efa002398b3826a53db12793454687b33e60faa7c67",
+            "path": "instagram-reels/zhunti-wff01w8ago-recreate-en/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-wff01w8ago-recreate-en/cover.png"
+          },
+          "video": {
+            "bytes": 5352051,
+            "content_hash": "sha256:6a378242afc921372440b8caf258b61a4825478402a12afc6f646a79b53fe60e",
+            "path": "instagram-reels/zhunti-wff01w8ago-recreate-en/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-wff01w8ago-recreate-en/video.mp4"
+          }
+        }
+      },
+      "published_at": "2026-07-11T12:45:24Z"
+    },
     "zhunti-zk8g7w1ndu4-userfix": {
       "bundle_id": null,
       "created_by": "xiaochuang",
@@ -393,5 +428,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-10T13:03:55Z"
+  "updated_at": "2026-07-11T12:45:24Z"
 }
