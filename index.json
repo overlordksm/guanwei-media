@@ -140,6 +140,42 @@
       },
       "published_at": "2026-07-03T14:04:32Z"
     },
+    "zhunti-3tbpgmzf0vo": {
+      "bundle_id": null,
+      "created_by": "xiaochuang",
+      "creation_works_id": "e883c5c9-bc55-45d3-b7de-3dcfe732e851",
+      "langs": {
+        "cn": {
+          "cover": {
+            "bytes": 2758226,
+            "content_hash": "sha256:a06c2fa745a17aad99f2cc3ba1bec70ae371610b1e1d8b7d1445af0661194efc",
+            "path": "instagram-reels/zhunti-3tbpgmzf0vo-cn/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-3tbpgmzf0vo-cn/cover.png"
+          },
+          "video": {
+            "bytes": 3837235,
+            "content_hash": "sha256:a2acdadc0a0deaf6f4dfaa48a76d9ac79a6ed0d39d95361aaf6b2b6ed48b8707",
+            "path": "instagram-reels/zhunti-3tbpgmzf0vo-cn/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-3tbpgmzf0vo-cn/video.mp4"
+          }
+        },
+        "en": {
+          "cover": {
+            "bytes": 2771873,
+            "content_hash": "sha256:46472734ebe3fe16822dbf2abf54ebde863b424cf9301d44fff3e6ee42168524",
+            "path": "instagram-reels/zhunti-3tbpgmzf0vo-en/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-3tbpgmzf0vo-en/cover.png"
+          },
+          "video": {
+            "bytes": 3811444,
+            "content_hash": "sha256:c8ba24e6eb5ba9d706852d6f670d3a27fa4bc7e27909450ae63b96aeb9a25a54",
+            "path": "instagram-reels/zhunti-3tbpgmzf0vo-en/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-3tbpgmzf0vo-en/video.mp4"
+          }
+        }
+      },
+      "published_at": "2026-07-13T13:38:13Z"
+    },
     "zhunti-6hzar8zafyi": {
       "bundle_id": null,
       "created_by": "xiaochuang",
@@ -464,5 +500,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-12T14:14:17Z"
+  "updated_at": "2026-07-13T13:38:13Z"
 }
