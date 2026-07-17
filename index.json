@@ -319,6 +319,42 @@
       },
       "published_at": "2026-07-06T14:27:23Z"
     },
+    "zhunti-hreyswljing-cn-v2": {
+      "bundle_id": null,
+      "created_by": "xiaochuang",
+      "creation_works_id": "9d2e0cd9-18dd-4159-b738-b7be8ac3058e",
+      "langs": {
+        "cn": {
+          "cover": {
+            "bytes": 2362298,
+            "content_hash": "sha256:398ed8cc1f15f4e184c31153c6e4c2b02851b5dbae7e09cc6c51ffb7c767eca1",
+            "path": "instagram-reels/zhunti-hreyswljing-cn-v2-cn/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-hreyswljing-cn-v2-cn/cover.png"
+          },
+          "video": {
+            "bytes": 3486534,
+            "content_hash": "sha256:c64616c4504f4752209c7ed9deb8df8eafa74c28024a403a2994988571f0d397",
+            "path": "instagram-reels/zhunti-hreyswljing-cn-v2-cn/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-hreyswljing-cn-v2-cn/video.mp4"
+          }
+        },
+        "en": {
+          "cover": {
+            "bytes": 2807401,
+            "content_hash": "sha256:6813365bf6a836c9d598c6e8b94dddc7bfe52e5fd8907142e344586751680107",
+            "path": "instagram-reels/zhunti-hreyswljing-cn-v2-en/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-hreyswljing-cn-v2-en/cover.png"
+          },
+          "video": {
+            "bytes": 3776319,
+            "content_hash": "sha256:8174609a188cfba988fe8b5c408f64a3f2bd694ee39a2ca393e978a47c136ef3",
+            "path": "instagram-reels/zhunti-hreyswljing-cn-v2-en/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-hreyswljing-cn-v2-en/video.mp4"
+          }
+        }
+      },
+      "published_at": "2026-07-17T21:36:10Z"
+    },
     "zhunti-ixepyt5b4ow": {
       "bundle_id": null,
       "created_by": "xiaochuang",
@@ -715,5 +751,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-17T14:07:42Z"
+  "updated_at": "2026-07-17T21:36:10Z"
 }
