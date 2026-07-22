@@ -427,6 +427,42 @@
       },
       "published_at": "2026-07-21T14:00:29Z"
     },
+    "zhunti-fzam8zh93b0": {
+      "bundle_id": null,
+      "created_by": "xiaochuang",
+      "creation_works_id": "621efbfd-1cff-4386-9c94-f9ae540f65c7",
+      "langs": {
+        "cn": {
+          "cover": {
+            "bytes": 1385636,
+            "content_hash": "sha256:adaf0a638704aaf73617d1badb4c8431d1b859366413b6f5ab2b1122deb6fa04",
+            "path": "instagram-reels/zhunti-fzam8zh93b0-cn/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-fzam8zh93b0-cn/cover.png"
+          },
+          "video": {
+            "bytes": 2913228,
+            "content_hash": "sha256:46d0f2d5745c676c2db7249adf4824b4080145d3caae93fc0ff51da4a18b6908",
+            "path": "instagram-reels/zhunti-fzam8zh93b0-cn/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-fzam8zh93b0-cn/video.mp4"
+          }
+        },
+        "en": {
+          "cover": {
+            "bytes": 1429505,
+            "content_hash": "sha256:7f91d451869bd4603d5dd5957dfcdae9102926726ab85b83702d7445789dbf8c",
+            "path": "instagram-reels/zhunti-fzam8zh93b0-en/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-fzam8zh93b0-en/cover.png"
+          },
+          "video": {
+            "bytes": 3672774,
+            "content_hash": "sha256:48f1bfd7da2d2396144fb3288837924b52c043a0d57d9dc64704199b9042a020",
+            "path": "instagram-reels/zhunti-fzam8zh93b0-en/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-fzam8zh93b0-en/video.mp4"
+          }
+        }
+      },
+      "published_at": "2026-07-22T13:05:03Z"
+    },
     "zhunti-hreyswljing-cn-v2": {
       "bundle_id": null,
       "created_by": "xiaochuang",
@@ -1038,5 +1074,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-22T02:47:26Z"
+  "updated_at": "2026-07-22T13:05:03Z"
 }
