@@ -427,6 +427,42 @@
       },
       "published_at": "2026-07-26T05:09:15Z"
     },
+    "zhunti-fiwxnwz00ki-v2": {
+      "bundle_id": null,
+      "created_by": "xiaochuang",
+      "creation_works_id": "manual-user-revision-20260726",
+      "langs": {
+        "cn": {
+          "cover": {
+            "bytes": 2431244,
+            "content_hash": "sha256:7e114e5ba49dc42cedb6f29d4f7c9d2d333021bf0973a642b6704cba57bb49a0",
+            "path": "instagram-reels/zhunti-fiwxnwz00ki-v2-cn/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-fiwxnwz00ki-v2-cn/cover.png"
+          },
+          "video": {
+            "bytes": 2820676,
+            "content_hash": "sha256:92ab2557096fd915905277374fd66ed7ca010fd10a642beb95c1e0a43a5548a9",
+            "path": "instagram-reels/zhunti-fiwxnwz00ki-v2-cn/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-fiwxnwz00ki-v2-cn/video.mp4"
+          }
+        },
+        "en": {
+          "cover": {
+            "bytes": 2452599,
+            "content_hash": "sha256:d746cec21756c21c22784ed07af64ca7993627a050853bc4dafce30a566d94e5",
+            "path": "instagram-reels/zhunti-fiwxnwz00ki-v2-en/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-fiwxnwz00ki-v2-en/cover.png"
+          },
+          "video": {
+            "bytes": 3030000,
+            "content_hash": "sha256:fbef2de44eb7b845bf86b03582763baecf2b9c9b9fdb6f38add91c2ef6b90aaf",
+            "path": "instagram-reels/zhunti-fiwxnwz00ki-v2-en/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-fiwxnwz00ki-v2-en/video.mp4"
+          }
+        }
+      },
+      "published_at": "2026-07-26T14:20:32Z"
+    },
     "zhunti-fy7pjvxq3bq": {
       "bundle_id": null,
       "created_by": "xiaochuang",
@@ -1290,5 +1326,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-26T05:09:15Z"
+  "updated_at": "2026-07-26T14:20:32Z"
 }
