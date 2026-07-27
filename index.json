@@ -248,6 +248,42 @@
       },
       "published_at": "2026-07-15T23:49:29Z"
     },
+    "zhunti-8gilgeosbnc": {
+      "bundle_id": null,
+      "created_by": "xiaochuang",
+      "creation_works_id": "0bd8e7ba-c5bf-4001-83cd-f189de769b66",
+      "langs": {
+        "cn": {
+          "cover": {
+            "bytes": 2595952,
+            "content_hash": "sha256:c2d6de1f4947b8ee3043d29005ad7cf9101f2845187fc7589e918bd04b70eabe",
+            "path": "instagram-reels/zhunti-8gilgeosbnc-cn/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-8gilgeosbnc-cn/cover.png"
+          },
+          "video": {
+            "bytes": 6139227,
+            "content_hash": "sha256:c4ee62eaceaba72b35e2178aa181d4955a97f9c737d3aff1258403efff7d638f",
+            "path": "instagram-reels/zhunti-8gilgeosbnc-cn/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-8gilgeosbnc-cn/video.mp4"
+          }
+        },
+        "en": {
+          "cover": {
+            "bytes": 2618008,
+            "content_hash": "sha256:a7ea4ecef9c68b07bc1f509c54fe5417648eb6f7421b6021eb87dbe6e39242f0",
+            "path": "instagram-reels/zhunti-8gilgeosbnc-en/cover.png",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-8gilgeosbnc-en/cover.png"
+          },
+          "video": {
+            "bytes": 7519932,
+            "content_hash": "sha256:250d2ca9973411db6de44beb59a492404fc5fa8220e50139b78aa2a86a61d7f0",
+            "path": "instagram-reels/zhunti-8gilgeosbnc-en/video.mp4",
+            "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-8gilgeosbnc-en/video.mp4"
+          }
+        }
+      },
+      "published_at": "2026-07-27T14:24:36Z"
+    },
     "zhunti-a70q1pzhc48-userfix": {
       "bundle_id": null,
       "created_by": "xiaochuang",
@@ -1362,5 +1398,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-27T03:21:34Z"
+  "updated_at": "2026-07-27T14:24:36Z"
 }
