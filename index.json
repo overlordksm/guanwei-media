@@ -255,34 +255,34 @@
       "langs": {
         "cn": {
           "cover": {
-            "bytes": 2595952,
-            "content_hash": "sha256:c2d6de1f4947b8ee3043d29005ad7cf9101f2845187fc7589e918bd04b70eabe",
+            "bytes": 2004445,
+            "content_hash": "sha256:e60d1c63ae6f69b2e5956f5f42bed2751ab7da81fc5fdb70a6ff51c489b90806",
             "path": "instagram-reels/zhunti-8gilgeosbnc-cn/cover.png",
             "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-8gilgeosbnc-cn/cover.png"
           },
           "video": {
-            "bytes": 6139227,
-            "content_hash": "sha256:c4ee62eaceaba72b35e2178aa181d4955a97f9c737d3aff1258403efff7d638f",
+            "bytes": 4028239,
+            "content_hash": "sha256:581dbd5ec3446c708e392ad516bb64921ec398325284c4c5a15ef7d3dd174281",
             "path": "instagram-reels/zhunti-8gilgeosbnc-cn/video.mp4",
             "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-8gilgeosbnc-cn/video.mp4"
           }
         },
         "en": {
           "cover": {
-            "bytes": 2618008,
-            "content_hash": "sha256:a7ea4ecef9c68b07bc1f509c54fe5417648eb6f7421b6021eb87dbe6e39242f0",
+            "bytes": 2028127,
+            "content_hash": "sha256:a0eede0fba6b11fa74c9089e51f3560ff09ca53bbb55960c40f59b4bfa991b23",
             "path": "instagram-reels/zhunti-8gilgeosbnc-en/cover.png",
             "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-8gilgeosbnc-en/cover.png"
           },
           "video": {
-            "bytes": 7519932,
-            "content_hash": "sha256:250d2ca9973411db6de44beb59a492404fc5fa8220e50139b78aa2a86a61d7f0",
+            "bytes": 5151123,
+            "content_hash": "sha256:04d45ad9bea9bd722972aa6d3436d07de4228eaa7836efa4fb31ce62d4d2bc60",
             "path": "instagram-reels/zhunti-8gilgeosbnc-en/video.mp4",
             "raw_url": "https://raw.githubusercontent.com/overlordksm/guanwei-media/main/instagram-reels/zhunti-8gilgeosbnc-en/video.mp4"
           }
         }
       },
-      "published_at": "2026-07-27T14:24:36Z"
+      "published_at": "2026-07-27T23:01:37Z"
     },
     "zhunti-a70q1pzhc48-userfix": {
       "bundle_id": null,
@@ -1398,5 +1398,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-07-27T14:24:36Z"
+  "updated_at": "2026-07-27T23:01:37Z"
 }
